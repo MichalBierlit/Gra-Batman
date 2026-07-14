@@ -230,7 +230,3 @@ Pokonaj wszystkich przestępców Gotham.
 
 Projekt wykonany jako gra konsolowa w języku **C#**.
 
-```
-THE BATMAN
-Justice never sleeps.
-```
